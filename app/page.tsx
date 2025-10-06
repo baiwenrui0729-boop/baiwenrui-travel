@@ -24,7 +24,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-200 text-slate-800">
       {/* Header */}
       <header className="p-6 flex justify-between items-center max-w-5xl mx-auto">
-        <h1 className="text-3xl font-bold">Bai Wenrui · Travel Journal</h1>
+        <h1 className="text-3xl font-bold">标题</h1>
         <nav className="space-x-6">
           <a href="#home" className="hover:text-slate-600">首页</a>
           <a href="#journal" className="hover:text-slate-600">第一部分</a>
